@@ -9,6 +9,8 @@ that make plotting a hassle (like drawing legends) as well as
 providing a powerful model of graphics that makes it easy to produce
 complex multi-layered graphics.
 
+hello, I am rosy.
+
 To install:
 
 * the latest released version: `install.packages("ggplot2")`
